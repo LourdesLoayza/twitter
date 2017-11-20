@@ -41,6 +41,6 @@ El reto de código busca desarrollar las siguientes funcionalidades:
 - Agregar la hora en que se publicó el tweet. En el formato de 24 horas: hh:mm.
 
 ### 3. Créditos
-- Lourdes Loayza
+- Desarrollado por Lourdes Loayza
 
 
